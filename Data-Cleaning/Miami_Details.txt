@@ -1,0 +1,28 @@
+Miami details
+
+Counties:
+Miami-Dade
+Broward
+Palm Beach 
+
+Principle cities:
+
+Miami
+Fort Lauderdale
+Pompano Beach
+West Palm Beach
+Boca Raton
+
+
+City 	Population(2013 estimate) 	County
+Miami 	417,650 	Miami-Dade
+Hialeah 	233,394 	Miami-Dade
+Fort Lauderdale 	172,389 	Broward
+Port St. Lucie 	171,016 	St. Lucie
+Pembroke Pines 	162,329 	Broward
+Hollywood 	146,256 	Broward
+Miramar 	130,288 	Broward
+Coral Springs 	126,604 	Broward
+Miami Gardens 	111,378 	Miami-Dade
+Pompano Beach 	104,410 	Broward
+West Palm Beach 	102,436 	Palm Beach
